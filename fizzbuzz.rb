@@ -2,7 +2,7 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(num)
   if num % 3 == 0
-    puts ex"Fizz"
+    puts "Fizz"
     elsif num % 5 == 0
       puts "Buzz"
     elsif (num % 5 == 0) && (num % 3 == 0)
