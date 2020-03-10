@@ -8,6 +8,6 @@ def fizzbuzz(num)
   elsif (num % 5 == 0) && (num % 3 == 0)
     puts "Fizzbuzz"
   else
-    puts "nil"
+    puts "nothing"
   end
 end
